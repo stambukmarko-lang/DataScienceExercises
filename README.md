@@ -1,0 +1,2 @@
+# DataScienceExercises
+prvi jupyter notebook
